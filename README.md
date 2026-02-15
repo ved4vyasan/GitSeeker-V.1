@@ -51,7 +51,7 @@ Ensure you have the following in your path:
 
 Clone the repo :
 ```bash 
-git clone https://github.com/ved4vyasan/GitSeeker.git 
+git clone https://github.com/ved4vyasan/GitSeeker-V.1.git
 cd GitSeeker
 chmod +x gitseeker.sh
 ./gitseeker.sh --help
