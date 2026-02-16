@@ -1,4 +1,6 @@
-![GitSeeker Logo](image.png)
+<p align="center">
+  <img src="image.png" width="500">
+</p>
 # 🔍 GitSeeker: Advanced Forensic Secret Scanner
 
 **GitSeeker** is a high-performance, automated security auditing tool designed specifically for Red Teamers, DevSecOps engineers, and Bug Bounty Hunters. While traditional scanners focus on the current state of a repository, GitSeeker performs a "Forensic Deep-Dive" into the entire lifecycle of a Git project to uncover secrets that were thought to be long gone.
