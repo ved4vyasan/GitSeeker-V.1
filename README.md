@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image.png" width="500">
+  <img src="logo.jpg" width="500">
 </p>
 
 # 🔍 GitSeeker: Advanced Forensic Secret Scanner
